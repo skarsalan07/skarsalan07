@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arsalan Shaikh</h1>
 <h3 align="center">A passionate Artificial Intelligence and Machine Learning developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://arsalanportfolio7.netlify.app/](https://arsalanportfolio7.netlify.app/)
+- 👨‍💻 All of my projects are available at https://arsalans-portfolio.onrender.com/
 
 - 📫 How to reach me **skarsalan8983@gmail.com**
 
